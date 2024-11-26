@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "@element-plus/icons-vue": "^2.3.1",
-    "element-plus": "^2.8.8"
+    "element-plus": "https://pkg.pr.new/element-plus/element-plus/element-plus@593a50a8dfb30f3d5dfb51e69672b25ad26fd5a5"
   },
   "devDependencies": {
     "@element-plus/nuxt": "^1.1.0",
